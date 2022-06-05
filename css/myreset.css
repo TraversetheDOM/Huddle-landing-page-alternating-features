@@ -1,0 +1,63 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /* font-size: 10px */
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  line-height: 1.5;
+  font-size: 1.8rem;
+  -webkit-font-smoothing: antialiased;
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+  font-family: var(--ff-OpenSans);
+  background-color: var(--white);
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+  background-color: none;
+  border: none;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--very-pale-cyan);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--light-pink);
+  border-radius: var(--radius-1);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--pink);
+}
