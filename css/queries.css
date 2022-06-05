@@ -85,6 +85,10 @@
   .information-2 {
     gap: 15px;
   }
+
+  .copyright {
+    text-align: right;
+  }
 }
 
 /* For screen sizes of 1200px and above */
