@@ -36,8 +36,8 @@ _A view of the landing page on a mobile phone_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/Huddle-landing-page-alternating-features)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/Huddle-landing-page-alternating-features/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/Huddle-landing-page-alternating-features)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/Huddle-landing-page-alternating-features/)
 
 ## My process
 
@@ -110,6 +110,6 @@ I would surely keep learning and improving on my use of flexbox and grid to make
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
